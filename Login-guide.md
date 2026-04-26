@@ -14,3 +14,5 @@ This guide helps users log in to the application.
 
 ## Notes
 Make sure your account is registered before logging in.
+
+Password must be secure
